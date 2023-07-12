@@ -1,8 +1,8 @@
-import pritom from "../../assets/icons/pritom.svg";
-import popers from "../../assets/icons/poppers.svg";
-import mayabi from "../../assets/icons/mayabi.svg";
-import dualix from "../../assets/icons/dualiex.svg";
-import octopus from "../../assets/icons/octopus.svg";
+// import pritom from "../../assets/icons/pritom.svg";
+// import popers from "../../assets/icons/poppers.svg";
+// import mayabi from "../../assets/icons/mayabi.svg";
+// import dualix from "../../assets/icons/dualiex.svg";
+// import octopus from "../../assets/icons/octopus.svg";
 
 const text = {
   display: "flex",
