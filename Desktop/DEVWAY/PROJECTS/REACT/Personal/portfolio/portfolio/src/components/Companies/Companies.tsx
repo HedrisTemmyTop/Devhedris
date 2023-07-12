@@ -14,14 +14,14 @@ const Companies = (): JSX.Element => {
   return (
     <div>
       <div style={text}>Trusted By Top Tech Companies </div>
-      <marquee direction="left" scrollamount="20">
+{/*       <marquee direction="left" scrollamount="20">
         <img src={pritom} alt="company" />
         <img src={mayabi} alt="company" />
         <img src={popers} alt="company" />
         <img src={dualix} alt="company" />
         <img src={octopus} alt="company" />
         <img src={dualix} alt="company" />
-      </marquee>
+      </marquee> */}
     </div>
   );
 };
